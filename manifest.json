@@ -3,8 +3,8 @@
   "version": 1,
   "config": {
     "name": "Gacha Forge 통합 한글화",
-    "version": "1.8.4",
-    "description": "공식 Gacha Forge 소스 기반 패시브 발동 조건·보스 상태 효과·전투 설명 추가 한글화",
+    "version": "1.8.5",
+    "description": "공식 소스 대조: 업적·성장·소환·상점·이벤트·탑 UI 번역 확대",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
