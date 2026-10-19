@@ -3,8 +3,8 @@
   "version": 1,
   "config": {
     "name": "Gacha Forge 통합 한글화",
-    "version": "1.8.7",
-    "description": "공식 UI 소스 기반 설정·제작 진행·스토리·이벤트 고정 레이블 보완 및 문구 목록화",
+    "version": "1.8.8",
+    "description": "소환 결과 카드 Glimmer·Best pull·FACET 표시 한글화 보완",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
