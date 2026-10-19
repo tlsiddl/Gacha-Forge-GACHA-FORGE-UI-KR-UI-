@@ -3,8 +3,8 @@
   "version": 1,
   "config": {
     "name": "Gacha Forge 통합 한글화",
-    "version": "1.8.2",
-    "description": "가챠포지 1.8.12 공식 소스 기반 궁극기·전투 툴팁 동적 번역 확장",
+    "version": "1.8.3",
+    "description": "궁극기 팝업의 전투 화면 범위 제한 해제; 공식 전투 설명 패턴 번역 보완",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
