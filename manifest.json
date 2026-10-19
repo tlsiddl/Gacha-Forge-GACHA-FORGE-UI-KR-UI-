@@ -3,8 +3,8 @@
   "version": 1,
   "config": {
     "name": "Gacha Forge 통합 한글화",
-    "version": "1.8.5",
-    "description": "공식 소스 대조: 업적·성장·소환·상점·이벤트·탑 UI 번역 확대",
+    "version": "1.8.6",
+    "description": "홈 다음 단계 카드의 Level up·XP held·Units·미편성 상태 번역 보완",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
