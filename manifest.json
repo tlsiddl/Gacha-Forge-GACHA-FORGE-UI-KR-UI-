@@ -1,10 +1,10 @@
 {
   "kind": "marinara.personal-extension",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "config": {
     "name": "Gacha Forge 한글화 누락 보완",
-    "version": "1.0.20",
-    "description": "홈 캐릭터 UI 및 4★ 빈 목록 안내 한글화, 표시 버전 일치; 기존 전투·이벤트 번역 유지",
+    "version": "1.0.21",
+    "description": "소환 결과 Glimmer 재화명 한글화, 기존 홈 캐릭터·전투·이벤트 UI 번역 유지",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
