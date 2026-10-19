@@ -3,8 +3,8 @@
   "version": 1,
   "config": {
     "name": "Gacha Forge 통합 한글화",
-    "version": "1.8.8",
-    "description": "소환 결과 카드 Glimmer·Best pull·FACET 표시 한글화 보완",
+    "version": "1.8.9",
+    "description": "소환 배너 상세 목록의 한글 자간·줄 높이·잘림 보정",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
