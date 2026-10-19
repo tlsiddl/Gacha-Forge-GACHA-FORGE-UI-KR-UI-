@@ -3,8 +3,8 @@
   "version": 1,
   "config": {
     "name": "Gacha Forge 통합 한글화",
-    "version": "1.8.1",
-    "description": "원본 전체 기능 + 전투 상태 효과·패시브 출처·지속 라운드의 동적 번역 보강",
+    "version": "1.8.2",
+    "description": "가챠포지 1.8.12 공식 소스 기반 궁극기·전투 툴팁 동적 번역 확장",
     "runtime": "client",
     "enabled": false,
     "capabilities": [
