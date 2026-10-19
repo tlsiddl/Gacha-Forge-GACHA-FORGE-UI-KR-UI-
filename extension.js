@@ -8,7 +8,7 @@
   // Whitelist-only translations. Never translate arbitrary AI-generated text.
   // UI-only text. Exact matches avoid touching narrative and generated names.
   const exact=new Map(Object.entries({
-    'Battle':'전투','Farm Insight':'통찰 파밍','Insight Shard':'통찰 조각','Insight Prism':'통찰 프리즘','Insight Core':'통찰 코어',
+    'Glimmer':'글리머','Battle':'전투','Farm Insight':'통찰 파밍','Insight Shard':'통찰 조각','Insight Prism':'통찰 프리즘','Insight Core':'통찰 코어',
     'Chapter One':'1챕터','Chapter Two':'2챕터','Chapter Three':'3챕터','Next step':'다음 단계',
     'Rank':'랭크','Continue':'계속','Story':'스토리','Event':'이벤트','Achievements':'업적',
     'Formation':'편성','Summon':'소환','Shop':'상점','Inventory':'가방',
